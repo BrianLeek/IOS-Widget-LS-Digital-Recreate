@@ -1,0 +1,5 @@
+@font-face{font-family:'digital-7';src:url(../fonts/digital-7.ttf);}
+body{font-family:'digital-7';text-align: center;font-weight:400;}
+.container{width:100%;margin:0 auto;overflow:hidden;}
+.clock{transform: skew(-4deg);border:0 solid #fff;color:#fff;}
+#time{font-size:50px;}
